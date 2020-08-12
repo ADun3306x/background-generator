@@ -30,3 +30,7 @@ color2.addEventListener("input", setGradient);
 // console.log(gradient);
 // console.log(color1.value);
 // console.log(color2.value);
+
+// dev dependencies are packages that are only needed to 
+// development & testing - never on the main site
+// when it reaches release-management stage
